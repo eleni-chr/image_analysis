@@ -2,7 +2,7 @@ function edge_mag = SobelMagnitude(img)
 
 % Function written by Eleni Christoforidou in MATLAB R2022b.
 
-% This computes the magnitude of Sobel filter responses
+% This function computes the magnitude of Sobel filter responses
 % for the input image 'img' using the horizontal and vertical Sobel filters.
 % The function outputs 'edge_mag', the magnitude of the filter responses.
 
